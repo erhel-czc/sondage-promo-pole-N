@@ -1,0 +1,2750 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extarticle
+\begin_preamble
+\usepackage{hyperref}   % pour les liens cliquables de la table des matières
+
+\renewcommand{\ref}[1]{Figure~\ref{#1}}
+
+\usepackage[svgnames,dvipsnames]{xcolor}
+
+\makeatletter
+\@addtoreset{section}{part}   % reprendre à partir de 1 les sections des parties suivantes.
+\makeatother
+\end_preamble
+\options titlepage
+\use_default_options true
+\begin_modules
+multicol
+\end_modules
+\maintain_unincluded_children no
+\language french
+\language_package default
+\inputencoding auto-legacy
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style french
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Partenariats BDE :
+\begin_inset Newline newline
+\end_inset
+
+Quels sont les envies des Mineur.euse.s ?
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+25Cayzac pour le Pôle N
+\begin_inset Newline newline
+\end_inset
+
+MineSabords
+\end_layout
+
+\begin_layout Date
+Mai 2025
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename img/logo.png
+	lyxscale 10
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Dans le cadre de sa mission de renforcement des partenariats avec les entreprises,
+ le Bureau Des Élèves MineSabords a mené une enquête auprès des étudiant·e·s pour identifier leurs attentes en matière de secteurs d’intérêt et de formats d’événements.
+ Les partenariats entreprises jouent un rôle central pour les élèves :
+ ils favorisent la découverte de métiers,
+ l’accès à des opportunités professionnelles,
+ la constitution d’un réseau,
+ et contribuent au financement de la vie associative.
+\end_layout
+
+\begin_layout Abstract
+Cette étude répond à une question clé :
+ quels événements organiser pour maximiser l’engagement des étudiant.e.s ?
+\end_layout
+
+\begin_layout Abstract
+Les résultats révèlent une nette préférence pour les domaines de l’
+\emph on
+Énergie et de l’Environnement
+\emph default
+,
+ suivis par les 
+\emph on
+Transports
+\emph default
+,
+ l’
+\emph on
+Aéronautique
+\emph default
+,
+ et la 
+\emph on
+Robotique
+\emph default
+.
+ À l’inverse,
+ le secteur 
+\emph on
+Mode et Luxe
+\emph default
+ suscite un intérêt minimal et devrait voir sa représentation réduite au profit des domaines plébiscités.
+ Certains secteurs,
+ comme le 
+\emph on
+Numérique,
+ l’Informatique et l’IA
+\emph default
+,
+ bien que moins bien classés globalement,
+ sont portés par des passionné.e.s et pourraient faire l’objet d’événements ciblés avec un public moins grand (tables rondes,
+ visites de sites).
+\end_layout
+
+\begin_layout Abstract
+Côté formats,
+ les amphithéâtres restent les plus appréciés,
+ tables rondes et les visites d’entreprises sont également plébiscités pour leur proximité entre élèves et entreprises.
+ Le développement de les forums thématiques comme commencé sur l'année précédente (ex.
+ :
+ 
+\emph on
+Start-up
+\emph default
+,
+ 
+\emph on
+Entreprises Publiques
+\emph default
+,
+ 
+\emph on
+Énergie/Environnement
+\emph default
+) semble également intéresser les élèves.
+\end_layout
+
+\begin_layout Abstract
+De manière générale,
+ les repas et cocktails apparaissent comme des levier majeurs de participation,
+ et seraient donc à maintenir systématiquement.
+\end_layout
+
+\begin_layout Abstract
+Les étudiant.e.s semblent attendre avant tout des événements informatifs (découverte des métiers,
+ conditions de travail) et carriéristes (opportunités de stages/emplois,
+ réseaux).
+ La dimension éthique de l'entreprise est également fortement prisée chez les élèves.
+\end_layout
+
+\begin_layout Abstract
+Enfin,
+ les fonctions en R&D et recherche appliquée sont très souvent mentionnées,
+ suggérant de cibler davantage des laboratoires et des entreprises mettant en place de réelles politiques d'innovation.
+\end_layout
+
+\begin_layout Abstract
+L’intégralité des données brutes et du code d’analyse est disponible en open source sur le 
+\begin_inset CommandInset href
+LatexCommand href
+name "GitHub du projet"
+target "https://github.com/erhel-czc/sondage-promo-pole-N"
+literal "false"
+
+\end_inset
+
+ :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://github.com/erhel-czc/sondage-promo-pole-N"
+target "https://github.com/erhel-czc/sondage-promo-pole-N"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Répartition des votes dans la promotion
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "40col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "foreground"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+Afin de mieux comprendre la provenance des votes étudiés,
+ on s'intéresse avant toute chose aux votant.e.s et à leurs promotions respectives (voir figure 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:Répartition-des-votant.e.s"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+ ci-contre).
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Ici,
+ la plupart des répondant.e.s sont en 1A,
+ et seront donc toujours directement concerné.e.s par les événements entreprise de l'année prochaine.
+ Il est cependant déplorable de ne pas avoir de réponse de césurien.ne,
+ car ces élèves seront en 3A à la rentrée 2026 et seront donc également concerné.e.s par les événements alors proposés.
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "foreground"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/prom.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Répartition-des-votant.e.s"
+
+\end_inset
+
+Répartition des votant.e.s par année d'étude.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Les domaines attirant le plus les élèves
+\end_layout
+
+\begin_layout Standard
+Par la suite nous nous sommes intéressé.e.s à la répartition des domaines les plus attractifs lors de la mise en place de tels événements.
+ Pour cela,
+ chaque élève pouvait noter les domaines présentés (à savoir 
+\emph on
+Énergie,
+ Environnement,
+ Transports,
+ Aéronautique,
+ Robotique et Automatisation,
+ Numérique Informatique et IA,
+ Santé et Biotechnologies,
+ Économie et Finance,
+ Mode et Luxe
+\emph default
+) entre 1 (domaine préféré) et 9 (domaine moins attractif).
+\end_layout
+
+\begin_layout Section
+Analyse brute des scores
+\end_layout
+
+\begin_layout Standard
+On s'intéresse en première approche au score dit 
+\begin_inset Quotes fld
+\end_inset
+
+agrégé
+\begin_inset Quotes frd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 0.2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "50col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\bar under
+Score agrégé :
+
+\bar default
+ Pour le calcul de ce score on considère un domaine 
+\begin_inset Formula $d$
+\end_inset
+
+,
+ 
+\begin_inset Formula $N_{d}\in\mathbb{N}$
+\end_inset
+
+ le nombre de mentions de ce domaine (la classification d'un domaine n'est pas obligatoire),
+ et 
+\begin_inset Formula $s_{i}\in\llbracket1,9\rrbracket$
+\end_inset
+
+ le score attribué par le.a sondé.e numéro 
+\begin_inset Formula $i\in\llbracket1,N_{d}\rrbracket$
+\end_inset
+
+ .
+ Le score agrégé est donné par :
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Formula 
+\[
+\text{score}(d)=\sum_{i=1}^{N_{d}}10-s_{i}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "50col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nous obtenons alors le graphe présenté en figure 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:Domaines-d'activités-les"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+.
+ Le domaine dominant est clairement l'
+\emph on
+Énergie
+\emph default
+,
+ résultat inchangé depuis plusieurs années.
+ Celui-ci est suivi par l'
+\emph on
+Environnement
+\emph default
+.
+ Viennent ensuite les autres domaines.
+ Le domaine 
+\emph on
+Mode et Luxe
+\emph default
+ est alors mis à part par les différent.e.s votant.e.s,
+ et e démarque par un intérêt très faible.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/domains_score.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Domaines-d'activités-les"
+
+\end_inset
+
+Domaines d'activités les plus attractifs.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Répartition détaillée des scores
+\end_layout
+
+\begin_layout Standard
+Une autre métrique à considérer ici est,
+ outre le score total,
+ la répartition des classements de ces domaines.
+ Par exemple,
+ en affichant le nombre de classement en 
+\begin_inset Quotes fld
+\end_inset
+
+Top 1
+\begin_inset Quotes frd
+\end_inset
+
+,
+ on se rend compte que certains domaines ne sont pas spécialement bien classés mais que certain.e.s passionné.e.s l'ont porté 
+\begin_inset Quotes fld
+\end_inset
+
+en haut
+\begin_inset Quotes frd
+\end_inset
+
+,
+ et,
+ à l'inverse certains domaines sont très bien classés au score total sans pour autant être favoris des élèves.
+ C'est par exemple le cas du domaine 
+\emph on
+Numérique,
+ Informatique et IA
+\emph default
+,
+ classé 
+\begin_inset Formula $6^{ème}$
+\end_inset
+
+ avec 14 
+\begin_inset Quotes fld
+\end_inset
+
+Top 1
+\begin_inset Quotes frd
+\end_inset
+
+,
+ alors que le domaine 
+\emph on
+Transports 
+\emph default
+se retrouve 
+\begin_inset Formula $3^{ème}$
+\end_inset
+
+ avec 8 
+\begin_inset Quotes fld
+\end_inset
+
+Top 1
+\begin_inset Quotes frd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="5">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Domaine
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Score total
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Rang moyen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Nombre de mentions
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Nombre de Top 1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Énergie
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+807
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3,33
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+121
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+30
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Environnement
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+675
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3,91
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+111
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Transports
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+587
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4,61
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+109
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Aéronautique
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+566
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4,99
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+113
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Robotique et Automatisation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+560
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4,95
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+111
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Numérique,
+ Informatique et IA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+557
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4,84
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+108
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Santé et Biotechnologies
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+534
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5,15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+110
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Économie et Finance
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+471
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5,72
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+110
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mode et Luxe
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+268
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7,56
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+110
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+On remarque également sur ce tableau que certains domaines sont moins sont moins mentionnés que d'autres (il n'est pas obligatoire de classer un domaine).
+ De plus,
+ concernant l'
+\emph on
+Aéronautique
+\emph default
+,
+ il y a 113 mentions sur 112 votant.e.s :
+ une réponse contenait plusieurs mentions de ce domaine,
+ en 
+\begin_inset Formula $1^{ère}$
+\end_inset
+
+,
+ 
+\begin_inset Formula $2^{ème}$
+\end_inset
+
+,
+ ...
+ place.
+ Dans la suite de l'analyse,
+ on ne prendra pas en compte cette variation de nombre de mentions,
+ celle-ci étant inférieure à 10%.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Afin de pousser plus loin l'analyse des domaines mis en avant,
+ on décide d'afficher la répartition des rangs attribués aux différents domaines (voir figure 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:Distribution-des-rangs"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/domains_rank_distribution.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Distribution-des-rangs"
+
+\end_inset
+
+Distribution des rangs par domaine.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Domaines fortement plébiscités
+\end_layout
+
+\begin_layout Standard
+Certains domaines,
+ tels que l'
+\emph on
+Énergie
+\emph default
+ et l'
+\emph on
+Environnement
+\emph default
+ se démarquent fortement dans cette répartition des rangs attribués :
+ beaucoup d'élèves présentent un intérêt fort.
+ Il advient donc de proposer davantage d'événements autour de ces thématiques,
+ en essayant de privilégier en première approche le format amphithéâtre,
+ qui demande un engagement d'un grand nombre d'élèves pour assurer le bon déroulement de l'événement.
+\end_layout
+
+\begin_layout Subsection
+Domaines moins mis en avant,
+ mais dits 
+\begin_inset Quotes fld
+\end_inset
+
+de passion
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un autre axe d'analyse peut être proposé pour les domaines tels que l'
+\emph on
+Aéronautique
+\emph default
+,
+ ou le 
+\emph on
+Numérique,
+ Informatique et IA
+\emph default
+ :
+ ces domaines,
+ s'il ne font pas partie des 
+\begin_inset Quotes fld
+\end_inset
+
+top domaines
+\begin_inset Quotes frd
+\end_inset
+
+ semblent être très appréciés (classés rang 1 ou 2) chez certains élèves que l'on pourrait qualifier de 
+\begin_inset Quotes fld
+\end_inset
+
+passionné.e.s
+\begin_inset Quotes frd
+\end_inset
+
+.
+ À ce titre,
+ il pourrait être intéressant de proposer des événements plus restreints,
+ tels que des tables rondes ou des visites de site :
+ sans prendre le risque d'une non réussite d'un amphithéâtre,
+ les élèves passionné.e.s pourraient profiter d'une proximité accrue avec les professionnel.le.s du domaine.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Mode et Luxe
+\emph default
+ :
+ une présence à diminuer
+\end_layout
+
+\begin_layout Standard
+Il apparaît clairement que le domaine 
+\emph on
+Mode et Luxe
+\emph default
+ n'est pas du tout apprécié au sein des promotions,
+ alors qu'il est habituellement très représenté dans les événements entreprises (environ trois événements l'Oréal,
+ événements Chanel...).
+ Dans un contexte de surcharge d'emploi du temps associatif,
+ il apparaît nécessaire de diminuer le nombre d'événements associés à ce domaine,
+ en les remplaçant par de nouveaux événements des domaines privilégiés.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Qu'attendent les élèves d'un événement entreprise ?
+\end_layout
+
+\begin_layout Section
+Les raisons poussant à aller à un événement entreprise du BDE
+\end_layout
+
+\begin_layout Standard
+L’objectif de cette partie était d’identifier,
+ avec la plus grande précision possible,
+ les raisons qui poussent les élèves à participer aux événements organisés avec des entreprises.
+ Pour ce faire,
+ chaque répondant.e avait la possibilité de sélectionner plusieurs options parmi celles proposées.
+ Parmi les résultats figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Raisons-pour-lesquelles"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+,
+ le domaine d’activité de l’entreprise apparaît clairement comme un critère primordial pour l’attractivité de ces événements.
+ De plus,
+ la catégorie « repas ou cocktail » —
+ qui regroupe les réponses « repas » et « cocktail » sans compter les redondances —
+ se distingue comme l’une des motivations principales.
+ 
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/reasons.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Raisons-pour-lesquelles"
+
+\end_inset
+
+Raisons pour lesquelles les étudiant.e.s prennent part à un événement.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "40col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "20pt"
+shadowsize "4pt"
+framecolor "foreground"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+Les données révèlent que les repas arrivent en tête des préférences,
+ suivis par les cocktails (voir figure 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:Choix-entre-repas"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+ ci-contre).
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Ainsi,
+ pour maintenir une forte participation,
+ il semble essentiel de poursuivre l’organisation de repas à la suite des événements entreprise.
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "foreground"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/meal_cocktail.pdf
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Choix-entre-repas"
+
+\end_inset
+
+Choix entre repas ou cocktail.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Fonctions les plus attractives
+\end_layout
+
+\begin_layout Standard
+Au sein d'un domaine d'activité,
+ il est également intéressant de connaître les types de fonctions les plus attractives pour les élèves.
+ À cette question ouverte,
+ seules 43 personnes ont répondu.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 0.2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "50col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\bar under
+Méthodologie :
+
+\bar default
+ La question étant ouverte ici,
+ nous avons regroupé les réponses par groupes thématiques.
+ Pour retrouver les mots clés utilisés pour un tel mapping,
+ voir le dictionnaire 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "alg:Mapping-fonctions"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+ en annexe 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Dictionnaires-de-mapping"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+.
+ Les mots clés en question ont été déterminés suite à une première lecture manuelle.
+ Le mapping utilisé a ensuite été amélioré en analysant les résidus de l'algorithme.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "50col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il apparaît très clairement que la recherche-développement et la recherche appliquée et/ou fondamentale est très fortement représentée parmi les votant.e.s.
+ Au vu de ces résultats,
+ il semble important de faire intervenir de nouvelles entreprises présentant de tels postes (nous sommes déjà en contact avec de nouvelles entreprises à ce sujet).
+ De plus,
+ plusieurs centres de recherche publics n'ont pas les financements pour participer à des événements tels que nous les proposons habituellement.
+ À ce titre,
+ nous pensons intéressant d'essayer de proposer des événements (à minima un) à prix réduit voire gratuit pour de tels laboratoires.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/job_functions.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Types de fonctions intéressant les étudiant.e.s.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Quels types d'événements mettre en avant ?
+\end_layout
+
+\begin_layout Standard
+Sur le format d'événement,
+ on remarque que l'opinion se tourne vers les amphithéâtres :
+ c'est en effet ce qu'il se fait déjà de plus,
+ et peut être mis en place sur la pause méridienne.
+ Les formats visites de site et tables rondes seront également à mettre en place au cours du mandat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/event_types.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Raisons pour lesquelles les étudiant.e.s prennent part à un événement.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Qu'attendent les élèves de la part des entreprises ?
+\end_layout
+
+\begin_layout Standard
+Afin de mieux orienter la venue des entreprises,
+ nous avons cherché à connaître les attentes des élèves.
+ À cette question ouverte,
+ seules 60 personnes ont répondu.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 0.2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "50col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\bar under
+Méthodologie :
+
+\bar default
+ La question étant ouverte ici,
+ nous avons regroupé les réponses par groupes thématiques.
+ Pour retrouver les mots clés utilisés pour un tel mapping,
+ voir le dictionnaire 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "alg:Mapping-attentes"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+ en annexe 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Dictionnaires-de-mapping"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+.
+ Les mots clés en question ont été déterminés suite à une première lecture manuelle.
+ Le mapping utilisé a ensuite été amélioré en analysant les résidus de l'algorithme.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "50col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il apparaît que la première motivation est informative,
+ suivie d’appétences professionnelles (soit pour obtenir des contacts,
+ soit pour obtenir directement un stage ou emploi).
+ Ici aussi,
+ la mention de nourriture refait surface.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/hopes_categories.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Raisons pour lesquelles les étudiant.e.s prennent part à un événement.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Après analyse de la distribution de la longueur des réponses (voir figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Distribution-attentes"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+ en annexe 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Distribution-des-longueurs"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+) et lecture des plus longues,
+ tout les types de réponses sont pris en compte dans cette analyse thématique.
+\end_layout
+
+\begin_layout Section
+Que veulent apprendre les élèves au sujet des entreprises ?
+\end_layout
+
+\begin_layout Standard
+Parmi les informations demandées par les élèves,
+ sur les 49 réponses obtenues,
+ presque la moitié fait à nouveau mention d'une volonté carriériste,
+ suivi par des questionnements au sujet des conditions de travail,
+ et de l'éthique de l'entreprise.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\bar under
+Remarque :
+
+\bar default
+ Une catégorie incluant des critères tels que la diversité,
+ l'inclusivité,
+ la mixité mais ces critères n'ont été mentionnés aucune fois.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/company_info.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Raisons pour lesquelles les étudiant.e.s prennent part à un événement.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Après analyse de la distribution de la longueur des réponses (voir figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Distribution-informations"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+ en annexe 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Distribution-des-longueurs"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+) et lecture des plus longues,
+ tout les types de réponses sont pris en compte dans cette analyse thématique.
+ Une réponse sort du lot par sa longueur et est retrouvable en annexe 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sec:Sélection-longues-réponses"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Mise en place de forums
+\end_layout
+
+\begin_layout Standard
+L'année dernière un 
+\emph on
+Forum Start-up
+\emph default
+ a été mis en place,
+ afin de faire intervenir de plus petites structures et permettre de regrouper plusieurs entreprises sous un même format.
+ Dans cette lancée,
+ nous avons souhaité savoir si ce format avait encore un intérêt,
+ et,
+ le cas échéant si on devait l'ouvrir à d'autres domaines.
+ Nous avons donc proposé un forum axé 
+\emph on
+Entreprises Publiques
+\emph default
+ (car celles-ci n'ont pas toujours les moyens de payer les événements 
+\begin_inset Quotes fld
+\end_inset
+
+ordinaires
+\begin_inset Quotes frd
+\end_inset
+
+) et un forum 
+\emph on
+Énergie et Environnement
+\emph default
+.
+ Ces deux options ont l'air de plaire majoritairement,
+ nous essaierons donc de mettre en place un tel forum lors de notre mandat,
+ en fonction des entreprises intéressées.
+\end_layout
+
+\begin_layout Standard
+Un commentaire demandait l'intérêt alors que le 
+\emph on
+forum Trium
+\emph default
+ existe déjà :
+ ici le but est de réunir moins d'entreprises et beaucoup moins d'élèves,
+ pour avoir une proximité plus grande entre élèves et entreprises.
+ Un autre intérêt ici est de cibler un critère de sélection bien précis.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/forums_interest.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Raisons pour lesquelles les étudiant.e.s prennent part à un événement.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Remarques des élèves
+\end_layout
+
+\begin_layout Standard
+Un espace était laissé libre aux élèves en fin de sondage.
+ Parmi les 29 réponses,
+ un bon nombre mentionne la volonté de 
+\begin_inset Quotes fld
+\end_inset
+
+plus d'éthique
+\begin_inset Quotes frd
+\end_inset
+
+ dans les entreprises présentes,
+ et pointent du doigt les entreprises profitant d'un contact privilégié avec les élèves pour vendre des stratégies RSE mensongères et non réalisables/réalisées.
+ Un autre commentaire exprime son souhait de partenariats dans le domaine de la 
+\emph on
+Finance
+\emph default
+ à la place du très représenté 
+\emph on
+Conseil
+\emph default
+,
+ expliquant que ce domaine correspond tout autant aux profils d'ingénieur.
+ Ce même domaine est critiqué par une autre remarque.
+ La plupart des longues réponses se retrouvent annexe 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sec:Sélection-longues-réponses"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Annexes
+\end_layout
+
+\begin_layout Section
+Distribution des longueurs des réponses
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Distribution-des-longueurs"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/hopes_length_distribution.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Distribution-attentes"
+
+\end_inset
+
+Distribution des longueurs des réponses sur les attentes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename plots/asked_info_length_distribution.pdf
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Distribution-informations"
+
+\end_inset
+
+Distribution des longueurs des réponses sur les informations demandées.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Sélection de longues réponses
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Sélection-longues-réponses"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+\begin_inset Quotes fld
+\end_inset
+
+Il suffit de voir les domaines pour comprendre que si vous voulez vraiment qu'environnementalement votre mandat se tienne,
+ il faut réduire drastiquement les budgets.
+ Mode,
+ aéronautique,
+ IA,
+ finance...
+ tout ça c'est juste aberrant socio-écologiquement parlant.
+ En fait vous avez pas vraiment le choix puisque vous avez une certaine envie de faire les choses bien.
+ Ou bien vous faites les choses à la marge en changeant pas foncièrement le système (donc vous allez chercher la "mode responsable",
+ "la finance verte",
+ les "carburants innovants" blablabla,
+ c'est ce que les BDE font depuis qu'ils veulent avoir la conscience tranquille),
+ ou alors vous coupez fortement dans les dépenses par soucis éthique et vous gardez les quelques domaines qui sont un peu mieux que les autres.
+ Et l'argument du "les gens sont assez grands pour décider" ne se tient pas,
+ vous avez une responsabilité non nulle dans les carrières futures d'un certain nombre de mineurs et mineuses.
+ Hésitez pas à regarder aussi les autres assos autour de vous :
+ il y en a peut-être qui ont des partenariats encore pire que les vôtres,
+ ce serait un peu bête de jouer cavalier seul alors que vous listez pour tout le monde...
+ Bon courage !
+\begin_inset Quotes frd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+J'aimerais juste que les gens qui viennent nous parler arrêtent de nous prendre pour des guignols en faisant du greenwashing à outrance.
+ L'année dernière un employé présentait la stratégie verte de son entreprise et donnait les objectif à atteindre en 2025 (on devait être en novembre 2024).
+ Respectueusement,
+ je lui demande où en sont ces objectifs puisque l'ultimatum imposé approche,
+ et on me baragouine une réponse pas satisfaisante du tout...
+ Je sais que les politiques ne donnent pas vraiment l'exemple en matière de bullshit mais ptn on est des gens intelligents,
+ faites usage de ça quoi !?
+ Désolé pour le pavé mais c'est important amha
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+\begin_inset Quotes fld
+\end_inset
+
+À Centrale (si je me trompe pas) ils ont un forum constitué uniquement d'entreprises censées être éthiques ou dont le but vise à protéger la planète.
+ Je ne sais pas dans quelle mesure il serait possible d’en organiser aussi,
+ ou de participer au leur
+\begin_inset Quotes frd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+\begin_inset Quotes fld
+\end_inset
+
+Branchez vous finance la team,
+ plutôt que conseil.
+ C'est bien plus stylé et skilled et ça correspond à nos profils malgré tout
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Dictionnaires de mapping
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Dictionnaires-de-mapping"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float algorithm
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset listings
+lstparams "language=Python,breaklines=true,showstringspaces=false,stringstyle={\color{purple}}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+categories_mapping = {
+\end_layout
+
+\begin_layout Plain Layout
+
+    "R&D":
+ ["r&d",
+ "r et d",
+ "rnd",
+ "r and d"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Recherche fondamentale":
+ ["recherche fondamentale",
+ "recherche fonda",
+ "physique fondamentale",
+ "astrophysique"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Recherche (générale)":
+ ["recherche"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Conseil / Stratégie":
+ ["conseil",
+ "stratégie",
+ "politiques publiques"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Gestion de projet":
+ ["gestion de projet",
+ "charge d",
+ "manager",
+ "management"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Ingénierie / Technique":
+ ["ingéniérie",
+ "ingénierie",
+ "technique",
+ "bureaux d'étude",
+ "métiers scientifiques"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Data / IA / ML":
+ ["data science",
+ "ml",
+ "données",
+ " ia"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Finance / Économie":
+ ["financier",
+ "économique",
+ "finance"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Fonction publique":
+ ["fonction publique"],
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "alg:Mapping-fonctions"
+
+\end_inset
+
+Mapping des catégorie de fonctions attractives (case-insensitive).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float algorithm
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset listings
+lstparams "language=Python,breaklines=true,showstringspaces=false,stringstyle={\color{purple}}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+hopes_categories = {
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Contacts":
+ ["contact",
+ "rencontre"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Informations entreprise":
+ ["information",
+ "info",
+ "connaissance",
+ "tâches",
+ "fait",
+ "mieux connaître",
+ "postes"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Stage / emploi":
+ ["stage",
+ "opportunité d'emploi",
+ "offre d'emploi"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Nourriture":
+ ["pizza",
+ "repas",
+ "cocktail"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Compréhension métier":
+ ["métier",
+ "fonction",
+ "métiers",
+ "job"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Inspiration":
+ ["inspiration",
+ "inspiré",
+ "curiosité",
+ "envie",
+ "découvrir"],
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "alg:Mapping-attentes"
+
+\end_inset
+
+Mapping des catégorie des attentes des élèves au sujet des événements (case-insensitive).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float algorithm
+placement H
+alignment document
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset listings
+lstparams "language=Python,breaklines=true,showstringspaces=false,stringstyle={\color{purple}}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+company_info_categories = {
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Emplois/Postes/Carrière":
+ ["emploi",
+ "poste",
+ "carrière",
+ "opportunité",
+ "recrutement",
+ "offre",
+ "stage",
+ "jobs",
+ "évolution"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Ambiance":
+ ["ambiance",
+ "culture"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Salaire/Rémunération":
+ ["salaire",
+ "rémunération",
+ "compensation",
+ "financier"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Conditions de travail,
+ quotidien":
+ ["conditions",
+ "horaire",
+ "télétravail",
+ "flexibilité",
+ "quotidien",
+ "jour",
+ "vie pro",
+ "fonctionnement"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Processus de recrutement":
+ ["recrutement",
+ "processus",
+ "entretien",
+ "sélection"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Diversité/Inclusivité":
+ ["diversité",
+ "inclusivité",
+ "inclusion",
+ "parité",
+ "mixité"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Localisation":
+ ["localisation",
+ "localisation",
+ "siège",
+ "lieux",
+ "pays",
+ "étranger",
+ "chez moi",
+ "paris"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Missions/Projets":
+ ["mission",
+ "projets",
+ "projet"],
+\end_layout
+
+\begin_layout Plain Layout
+
+    "Éthique/Écologie":
+ ["écologie",
+ "environnement",
+ "durabilité",
+ "green",
+ "éthique",
+ "armes à israel",
+ "environement",
+ "valeur",
+ "engagement"],
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mapping des catégorie d'informations que les élèves souhaitent avoir sur l'entreprise (case-insensitive).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
