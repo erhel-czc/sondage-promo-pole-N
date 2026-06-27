@@ -325,8 +325,6 @@ nolink "false"
 Ici,
  la plupart des répondant.e.s sont en 1A,
  et seront donc toujours directement concerné.e.s par les événements entreprise de l'année prochaine.
- Il est cependant déplorable de ne pas avoir de réponse de césurien.ne,
- car ces élèves seront en 3A à la rentrée 2026 et seront donc également concerné.e.s par les événements alors proposés.
 \end_layout
 
 \end_inset
@@ -761,7 +759,7 @@ Nombre de Top 1
 \begin_inset Text
 
 \begin_layout Plain Layout
-807
+968
 \end_layout
 
 \end_inset
@@ -770,7 +768,7 @@ Nombre de Top 1
 \begin_inset Text
 
 \begin_layout Plain Layout
-3,33
+3,28
 \end_layout
 
 \end_inset
@@ -779,7 +777,7 @@ Nombre de Top 1
 \begin_inset Text
 
 \begin_layout Plain Layout
-121
+144
 \end_layout
 
 \end_inset
@@ -788,7 +786,7 @@ Nombre de Top 1
 \begin_inset Text
 
 \begin_layout Plain Layout
-30
+34
 \end_layout
 
 \end_inset
@@ -808,7 +806,7 @@ Environnement
 \begin_inset Text
 
 \begin_layout Plain Layout
-675
+789
 \end_layout
 
 \end_inset
@@ -817,7 +815,7 @@ Environnement
 \begin_inset Text
 
 \begin_layout Plain Layout
-3,91
+4,11
 \end_layout
 
 \end_inset
@@ -826,7 +824,7 @@ Environnement
 \begin_inset Text
 
 \begin_layout Plain Layout
-111
+134
 \end_layout
 
 \end_inset
@@ -835,7 +833,54 @@ Environnement
 \begin_inset Text
 
 \begin_layout Plain Layout
-22
+27
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Numérique,Informatique et IA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+707
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4,60
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+131
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20
 \end_layout
 
 \end_inset
@@ -855,7 +900,7 @@ Transports
 \begin_inset Text
 
 \begin_layout Plain Layout
-587
+692
 \end_layout
 
 \end_inset
@@ -864,7 +909,7 @@ Transports
 \begin_inset Text
 
 \begin_layout Plain Layout
-4,61
+4,76
 \end_layout
 
 \end_inset
@@ -873,7 +918,7 @@ Transports
 \begin_inset Text
 
 \begin_layout Plain Layout
-109
+132
 \end_layout
 
 \end_inset
@@ -882,54 +927,7 @@ Transports
 \begin_inset Text
 
 \begin_layout Plain Layout
-8
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Aéronautique
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-566
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-4,99
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-113
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-13
+9
 \end_layout
 
 \end_inset
@@ -949,7 +947,7 @@ Robotique et Automatisation
 \begin_inset Text
 
 \begin_layout Plain Layout
-560
+679
 \end_layout
 
 \end_inset
@@ -958,7 +956,7 @@ Robotique et Automatisation
 \begin_inset Text
 
 \begin_layout Plain Layout
-4,95
+4,93
 \end_layout
 
 \end_inset
@@ -967,7 +965,7 @@ Robotique et Automatisation
 \begin_inset Text
 
 \begin_layout Plain Layout
-111
+134
 \end_layout
 
 \end_inset
@@ -976,55 +974,7 @@ Robotique et Automatisation
 \begin_inset Text
 
 \begin_layout Plain Layout
-6
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Numérique,
- Informatique et IA
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-557
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-4,84
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-108
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-14
+8
 \end_layout
 
 \end_inset
@@ -1044,7 +994,7 @@ Santé et Biotechnologies
 \begin_inset Text
 
 \begin_layout Plain Layout
-534
+664
 \end_layout
 
 \end_inset
@@ -1053,7 +1003,7 @@ Santé et Biotechnologies
 \begin_inset Text
 
 \begin_layout Plain Layout
-5,15
+5,01
 \end_layout
 
 \end_inset
@@ -1062,7 +1012,7 @@ Santé et Biotechnologies
 \begin_inset Text
 
 \begin_layout Plain Layout
-110
+133
 \end_layout
 
 \end_inset
@@ -1071,7 +1021,54 @@ Santé et Biotechnologies
 \begin_inset Text
 
 \begin_layout Plain Layout
-8
+9
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Aéronautique
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+661
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5,14
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+136
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14
 \end_layout
 
 \end_inset
@@ -1091,7 +1088,7 @@ Santé et Biotechnologies
 \begin_inset Text
 
 \begin_layout Plain Layout
-471
+572
 \end_layout
 
 \end_inset
@@ -1100,7 +1097,7 @@ Santé et Biotechnologies
 \begin_inset Text
 
 \begin_layout Plain Layout
-5,72
+5,70
 \end_layout
 
 \end_inset
@@ -1109,7 +1106,7 @@ Santé et Biotechnologies
 \begin_inset Text
 
 \begin_layout Plain Layout
-110
+133
 \end_layout
 
 \end_inset
@@ -1118,7 +1115,7 @@ Santé et Biotechnologies
 \begin_inset Text
 
 \begin_layout Plain Layout
-8
+10
 \end_layout
 
 \end_inset
@@ -1138,7 +1135,7 @@ Mode et Luxe
 \begin_inset Text
 
 \begin_layout Plain Layout
-268
+328
 \end_layout
 
 \end_inset
@@ -1147,7 +1144,7 @@ Mode et Luxe
 \begin_inset Text
 
 \begin_layout Plain Layout
-7,56
+7,53
 \end_layout
 
 \end_inset
@@ -1156,7 +1153,7 @@ Mode et Luxe
 \begin_inset Text
 
 \begin_layout Plain Layout
-110
+133
 \end_layout
 
 \end_inset
@@ -1165,7 +1162,7 @@ Mode et Luxe
 \begin_inset Text
 
 \begin_layout Plain Layout
-3
+4
 \end_layout
 
 \end_inset
@@ -1187,29 +1184,6 @@ Mode et Luxe
 
 \begin_layout Standard
 On remarque également sur ce tableau que certains domaines sont moins sont moins mentionnés que d'autres (il n'est pas obligatoire de classer un domaine).
- De plus,
- concernant l'
-\emph on
-Aéronautique
-\emph default
-,
- il y a 113 mentions sur 112 votant.e.s :
- une réponse contenait plusieurs mentions de ce domaine,
- en 
-\begin_inset Formula $1^{ère}$
-\end_inset
-
-,
- 
-\begin_inset Formula $2^{ème}$
-\end_inset
-
-,
- ...
- place.
- Dans la suite de l'analyse,
- on ne prendra pas en compte cette variation de nombre de mentions,
- celle-ci étant inférieure à 10%.
 \begin_inset Newline newline
 \end_inset
 
@@ -1314,17 +1288,16 @@ de passion
 \end_layout
 
 \begin_layout Standard
-Un autre axe d'analyse peut être proposé pour les domaines tels que l'
-\emph on
-Aéronautique
-\emph default
-,
- ou le 
+Un autre axe d'analyse peut être proposé pour les domaines tels que le 
 \emph on
 Numérique,
  Informatique et IA
 \emph default
- :
+ ou l'
+\emph on
+Aéronautique
+\emph default
+,:
  ces domaines,
  s'il ne font pas partie des 
 \begin_inset Quotes fld
@@ -1579,7 +1552,7 @@ Fonctions les plus attractives
 Au sein d'un domaine d'activité,
  il est également intéressant de connaître les types de fonctions les plus attractives pour les élèves.
  À cette question ouverte,
- seules 43 personnes ont répondu.
+ seules 53 personnes ont répondu.
 \end_layout
 
 \begin_layout Standard
@@ -1763,7 +1736,7 @@ Qu'attendent les élèves de la part des entreprises ?
 Afin de mieux orienter la venue des entreprises,
  nous avons cherché à connaître les attentes des élèves.
  À cette question ouverte,
- seules 60 personnes ont répondu.
+ seules 69 personnes ont répondu.
 \begin_inset Newline newline
 \end_inset
 
@@ -1929,7 +1902,7 @@ Que veulent apprendre les élèves au sujet des entreprises ?
 
 \begin_layout Standard
 Parmi les informations demandées par les élèves,
- sur les 49 réponses obtenues,
+ sur les 54 réponses obtenues,
  presque la moitié fait à nouveau mention d'une volonté carriériste,
  suivi par des questionnements au sujet des conditions de travail,
  et de l'éthique de l'entreprise.
@@ -2364,6 +2337,24 @@ Branchez vous finance la team,
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+\begin_inset Quotes fld
+\end_inset
+
+Est ce que l'entreprise a un impact positif ou négatif (jusqu'à présent la plupart des entreprises présent sont plutôt dans le second cas,
+ même si elles adorent prétendre le contraire)
+\begin_inset Quotes frd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -2425,7 +2416,8 @@ categories_mapping = {
     "Conseil / Stratégie":
  ["conseil",
  "stratégie",
- "politiques publiques"],
+ "politiques publiques",
+ "stratagie"],
 \end_layout
 
 \begin_layout Plain Layout
@@ -2461,7 +2453,8 @@ categories_mapping = {
     "Finance / Économie":
  ["financier",
  "économique",
- "finance"],
+ "finance",
+ "économie"],
 \end_layout
 
 \begin_layout Plain Layout
